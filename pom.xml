@@ -3,4 +3,11 @@
   <groupId>in.magnitia</groupId>
   <artifactId>in.magnitia.Project1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.0.1</version>
+</dependency>
+</dependencies>
 </project>
